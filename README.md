@@ -1,5 +1,5 @@
 # Portofolio-Finance-Tracker
-A WebApp that for your personal Financial Tracker. This WebApp will Track your total value asset grows.
+A WebApp that for my personal Financial Tracker. This WebApp will Track yours total value assets grows.
 
 # How To Use
 Firstly download the run.bat and porto.html, Create a folder that holds the 2 file in the same folder(remember must in the same folder).
@@ -7,5 +7,5 @@ Firstly download the run.bat and porto.html, Create a folder that holds the 2 fi
 And then Just Click on the run.bat and click on the porto.html so you can open the web thats it enjoy to use this webapp freely.
 
 # Features
-- the webapp can tracking your financial data
+- the webapp can tracking yours personal financial data
 - it can save the data with localstorage (so you can use it with no wifi)
